@@ -1,0 +1,6 @@
+﻿token=NTM4NzAwODEzNTg2MDA2MDQ4.Dy3pfA.4KbREoftMjTSUpuOnaxXbVkH6LQ
+owner=400692843582062604
+prefix= x
+game= 3xiGood
+stayinchannel=true
+songinstatus=true 
